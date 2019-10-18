@@ -9,4 +9,4 @@ To start:
 -Run npm i
 -Then perform npm start
 
-![[https://github.com/katran0079/bamazon/sample/start.gif|alt=octocat]]
+![Gif of NPM START](https://katran0079.github.com/sample/start.gif)
