@@ -4,3 +4,9 @@ Technologies used include:
 Mysql
 Inquirer
 Node
+
+To start:
+-Run npm i
+-Then perform npm start
+
+[[https://github.com/katran0079/bamazon/sample/start.gif|alt=octocat]]
