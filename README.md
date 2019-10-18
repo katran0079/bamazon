@@ -9,4 +9,6 @@ To start:
 -Run npm i
 -Then perform npm start
 
-![Gif of NPM START](https://katran0079.github.com/sample/start.gif)
+![Gif of NPM START](https://katran0079.github.com/sample/start.mp4)
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
