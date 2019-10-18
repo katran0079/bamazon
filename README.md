@@ -11,4 +11,4 @@ To start:
 
 ![Gif of NPM START](https://katran0079.github.com/sample/start.mp4)
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Yaktocat](https://katran0079.github.com/sample/purchase.gif)
