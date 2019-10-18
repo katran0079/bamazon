@@ -4,16 +4,15 @@
 Bamazon is a mock-up online store. Users are able to view the inventory and purchase items. Once an item has been purchased, the inventory will automatically update to reflect the purchase.
 
 ### Technologies used include:
-Mysql
-Inquirer
-Node
-MAMP (for running the MYSQL workbench server)
+MYSQL
+NODE
+inquirer
 
 ### To start:
--Run npm i
--start up the MAMP server
--Then perform npm start
--From there, you are given to the option to view products (useful for finding specific product ids)
+Run npm i
+Start up the MAMP server
+Then perform npm start
+From there, you are given to the option to view products (useful for finding specific product ids)
 
 ![Gif of NPM START](https://github.com/katran0079/bamazon/blob/master/sample/start.gif)
 
