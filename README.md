@@ -9,6 +9,6 @@ To start:
 -Run npm i
 -Then perform npm start
 
-![Gif of NPM START](https://katran0079.github.com/sample/start.mp4)
+![Gif of NPM START](https://github.com/katran0079/bamazon/blob/master/sample/start.mp4)
 
-![Image of Yaktocat](https://katran0079.github.com/sample/purchase.gif)
+![Image of Yaktocat](https://github.com/katran0079/bamazon/blob/master/sample/purchase.gif)
